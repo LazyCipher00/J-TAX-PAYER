@@ -9,7 +9,7 @@ J-TAX PAYER is a comprehensive tax management solution built with inclusivity at
 - **Literate taxpayers** can interact directly with the system
 - **Illiterate taxpayers** are assisted by government-authorized agents
 
-The application facilitates taxpayer and business registration, tax assessment, payment processing, invoice/receipt generation, notification delivery, transaction history storage, and administrative oversight. An advanced analytics dashboard provides JIRS administrators with valuable insights for evidence-based revenue planning and policy decisions.
+
 
 The system is implemented using a modern web architecture with a React frontend, a Python Flask RESTful backend, and a PostgreSQL database. Although developed as an academic monolithic prototype, the architecture is designed to be scalable, maintainable, and ready for future deployment in a real government environment.
 
